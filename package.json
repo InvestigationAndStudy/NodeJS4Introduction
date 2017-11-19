@@ -1,0 +1,22 @@
+{
+  "name": "nodejs4introduction",
+  "version": "1.0.0",
+  "description": "My Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InvestigationAndStudy/NodeJS4Introduction.git"
+  },
+  "keywords": [
+    "qwerty!"
+  ],
+  "author": "venia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InvestigationAndStudy/NodeJS4Introduction/issues"
+  },
+  "homepage": "https://github.com/InvestigationAndStudy/NodeJS4Introduction#readme"
+}
